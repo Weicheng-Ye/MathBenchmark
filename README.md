@@ -1,1 +1,3 @@
-# MathBenchmark/n A mathematical benchmark for LLMs and agents
+# MathBenchmark
+
+A mathematical benchmark for LLMs and agents
